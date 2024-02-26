@@ -1,0 +1,34 @@
+.open-sans {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings: 100;
+}
+
+body {
+    background-color: rgba(0, 0, 0, 0.767) !important;
+}
+
+header {
+    height: 70px;
+}
+
+.logo {
+    max-height: 100%;
+}
+
+.carousel-inner {
+    height: 50em;
+}
+
+.carousel-item {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+footer {
+    height: 100px;
+    background-color: black;
+}
